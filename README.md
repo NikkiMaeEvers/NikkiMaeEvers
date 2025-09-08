@@ -9,4 +9,4 @@ Curious about the ethical and responsible use of AI and data to create a positiv
 
 📫 Shoot me a message here, or on [my LinkedIn](https://www.linkedin.com/in/nikki-mae-evers/) if you're interested in a collab or just want to casually chat about (shared) interests.
 
-I unfortunately lost access to my old GitHub account around April 2024 due to 2FA. Don't be stupid like me, and make sure you set up multiple verification methods!
+> I unfortunately lost access to my old GitHub account around April 2024 due to 2FA. Don't be stupid like me, and make sure you set up multiple verification methods!
